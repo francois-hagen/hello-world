@@ -2,4 +2,9 @@ test new file add
 
 add online
 
+<<<<<<< HEAD
 comflict
+=======
+
+test conflict
+>>>>>>> origin/master
